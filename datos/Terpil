@@ -1,0 +1,13 @@
+tipo:Cuba:12000:80.0
+tipo:Jesus:20000:244.995
+tipo:Corriente:15000:100.0
+tipo:Diesel:9000:50.0
+surtidor:Mario:Cuba:0.0:Jesus:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Ricardo:Cuba:0.0:Jesus:0.005:Corriente:0.0:Diesel:0.0
+surtidor:Javier:Cuba:20.0:Jesus:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Mario:Cuba:0.0:Jesus:5.0:Corriente:0.0:Diesel:0.0
+empleado:Javier:240000
+empleado:Ricardo:100
+empleado:Luisa:0
+empleado:Mario:100000
+empleado:Monica:0
